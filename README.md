@@ -1,7 +1,7 @@
 # A RECOMMENDATION SYSTEM
 A Cloud Based Personalised Recommendation System for movies and books
 
-<h1> INTRODUCTION </h1>
+<h3> INTRODUCTION </h3>
 
 The cloud based personalized recommendation system , takes the current books, songs, movies present in your account by the ratings given to them and recommends new books , songs or movies based on the user interests.By using the techniques like content based and collaborative based, deep learning and matrix factorization techniques.
 
