@@ -31,7 +31,8 @@ Proposed system uses collaborative filter and deep learning algorithm and is not
     Deep Learning / Neural Network
     
 <h3> ARCHITECTURE DIAGRAM: </h3>
-![Picture1](https://user-images.githubusercontent.com/53599318/99866485-8688b000-2bd7-11eb-844f-273b28340d7f.png)
+
+![design1](https://user-images.githubusercontent.com/53599318/99866568-3b22d180-2bd8-11eb-8b87-796c8270bfcf.jpg)
 
 <h3> ALGORITHMS: </h3>
 
